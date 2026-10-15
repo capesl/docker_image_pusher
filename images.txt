@@ -1,2 +1,1 @@
-#first pull
-jeessy/ddns-go:latest
+jeessy/ddns-go:latest =>crpi-0y7roiqmsne2pt45.cn-heyuan.personal.cr.aliyuncs.com/gzshell/ddns-go:latest
