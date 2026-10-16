@@ -1,8 +1,2 @@
-# ===== Milvus（含 etcd、minio）=====
-milvusdb/milvus:v2.6.3
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-
-# ===== Elasticsearch（含 Kibana）=====
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
